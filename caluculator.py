@@ -1,0 +1,7 @@
+a=int(input("enter the value of a"))
+b=int(input("enter the value of b"))
+print('addition:',a+b)
+print('subraction:',a-b)
+print('multiplication:',a*b)
+print('division:',a/b)
+print('moduls:',a%b)
