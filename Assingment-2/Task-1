@@ -1,0 +1,6 @@
+# Task 1
+a=int(input("Enter the value to check Even or Odd : "))
+if(a%2==0) :
+    print('the value is even')
+else:
+    print('the value is odd') 

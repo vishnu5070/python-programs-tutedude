@@ -1,0 +1,5 @@
+#Task 2
+n=50
+sum = n*(n+1)/2
+print(f'the sum of integer 1 to 50 : {sum} ')
+  
