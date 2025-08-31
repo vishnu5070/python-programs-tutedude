@@ -1,0 +1,9 @@
+a=[1,2,3,4,5,6,7,8,9,10]
+print('original list : ')
+print(a)
+print('Extracting first five elements :')
+b=a[0:5]
+print(b)
+print('reverse of first five elements : ')
+b.reverse()
+print(b)
